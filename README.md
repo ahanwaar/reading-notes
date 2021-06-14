@@ -26,4 +26,6 @@ Growth mindset refers to believe that our talents can be developed through hard 
 
 ![grwothMindsetVsFixed](https://assets.website-files.com/5e61c61d7b1e830be9d1c47a/5f6d8ebab07a96ab7f5feebf_Growth%20vs%20Fixed%20Mindset%20Infographic.png)
 
+Github Protofilo:[github link](https://github.com/ahanwaa).
+
 
