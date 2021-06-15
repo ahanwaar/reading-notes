@@ -5,6 +5,10 @@ It's Anwaar Abuhani, a Mechatronics Engineer, I love Technology, coding, reading
 
 ## Table of Content:
 <table>
+    <tr>
+        <th>Topic Number</th>
+        <th>Topic Hyperlink</th>
+    </tr>
      <tr>
         <td>1.</td>
         <td><a href="https://ahanwaar.github.io/reading-notes/growth-mindset">The Growth Mindset</a></td>
