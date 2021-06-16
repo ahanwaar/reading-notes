@@ -5,6 +5,10 @@ It's Anwaar Abuhani, a Mechatronics Engineer, I love Technology, coding, reading
 
 ## Table of Content:
 <table>
+    <tr>
+    <th>Topic Num.</th>
+    <th>Topic/Link</th>
+    </tr>
      <tr>
         <td>1.</td>
         <td><a href="https://ahanwaar.github.io/reading-notes/growth-mindset">The Growth Mindset</a></td>
@@ -16,5 +20,13 @@ It's Anwaar Abuhani, a Mechatronics Engineer, I love Technology, coding, reading
     <tr>
         <td>3.</td>
         <td><a href="https://ahanwaar.github.io/reading-notes/read02">VCS, Git, & Github</a></td>
+    </tr>
+    <tr>
+        <td>4.</td>
+        <td><a href="https://ahanwaar.github.io/reading-notes/read03">Structure web pages with HTML</a></td>
+    </tr>
+    <tr>
+        <td>5.</td>
+        <td><a href="https://ahanwaar.github.io/reading-notes/read04">Dynamic web pages with JavaScript</a></td>
     </tr>
 </table>
