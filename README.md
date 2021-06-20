@@ -37,4 +37,8 @@ It's Anwaar Abuhani, a Mechatronics Engineer, I love Technology, coding, reading
         <td>7.</td>
         <td><a href="https://ahanwaar.github.io/reading-notes/read06"> Design web pages with CSS </a></td>
     </tr>
+    <tr>
+        <td>7.</td>
+        <td><a href="https://ahanwaar.github.io/reading-notes/read07">Programming with JavaScript </a></td>
+    </tr>
 </table>
